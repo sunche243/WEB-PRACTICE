@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sunche의 슬기로운 뻘짓세계</title>
     <style>
-        h1{
+         h1{
             background: gray;
             color : white;
             padding: 10px;
@@ -16,16 +16,30 @@
             background: rgb(197, 197, 197);
         }
 
-        article{
+        /*article{
             width: 640px;
             border: 3px solid rgb(0, 162, 255);
             top: 50%;
             left: 50%;
-    }
+    } */
+        wrapper{
+            width: 400px;
+            height: 400px;
+            border: 1px solid black;
+            position: relative;
+        }
+        article {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
     </style>
 
         
-    </article>
+
 </head>
 <body>
     <h1>sunche`s portfolio World</h1>
@@ -44,6 +58,7 @@
         </ul>
     </p>
     <hr>
+    <wrapper>
     <article id="Life Recipe">
         <iframe width="640" height="360" src="https://www.youtube.com/embed/zTPK8LjcMFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h3>
@@ -57,7 +72,8 @@
            요약 : 주인공인 찬준은 주변 친구들의 놀림속에서도 본인의 꿈을 위해 노력하고, 결국 출판까지 하며 친구들에게 인정을 받게 된다.
         </p>
     </article>
-    <hr>
+    </wrapper>
+    <!-- <hr>
     <article id="stop motion">
         <iframe width="640" height="360" src="https://www.youtube.com/embed/qQ4G3EDdbl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <h3>
@@ -74,6 +90,6 @@
              개요 : 한국 디지털 미디어 고등학교 2021학년도 애니메이션 제작 수행평가 제출영상<br>
              요약 : 무선이어폰의 보급으로 인해 외면받고있는 유선 이어폰이 무선이어폰에 대한 복수를 하게된다.
           </p>
-    </article>
+    </article> -->
 </body>
 </html>
