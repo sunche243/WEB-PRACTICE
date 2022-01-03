@@ -68,3 +68,11 @@ iframe{
     width: 100%;
     height: 500px;
 }
+
+.header{
+    display: flex;
+    width: 868px;
+    height: 80px;
+    margin: auto;
+    background-color: #DBD4BB;
+}
