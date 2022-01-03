@@ -1,4 +1,4 @@
-
+/* 
 h1{
     font-size: 24pt;
     color : black;
@@ -53,4 +53,12 @@ aside{
 iframe{
     width: 640px;
     height: 480px;
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    color: #000000;
 }
