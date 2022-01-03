@@ -1,59 +1,33 @@
-/* 
 h1{
     font-size: 24pt;
     color : black;
 }
+
 h2{
     font-size: 22pt;
     color: #333333;
 }
+
 h3{
     font-size: 20pt;
     color: #333333;
 }
+
 h4{
     font-size: 18pt;
     color: black;
 }
+
 h5{
     font-size: 16pt;
     color: black;
 }
+
 p{
     font-size: 14pt;
     color: black;
 }
-body{
-    background-color: #F9F9F9;
-}
-header{
-    font-size: 40pt;
-    width: auto;
-    height: 80px;
-    color: black;
-    background-color: #DBD4BB;
-    padding-left: 50px;
-    margin: 0px;
-}
-article{
-    width: 1080px;
-    height: 750px;
-    margin-left: 420px;
-    margin-top: 131px;
-    background-color: rgb(168, 168, 168);
-    padding-left: 223px;
-    padding-right: 220px;
-}
-aside{
-    width : 200px;
-    height: auto;
-    margin-top: 184px;
-    margin-left: 1620px;
-}
-iframe{
-    width: 640px;
-    height: 480px;
-} */
+
 *{
     margin: 0px;
     padding: 0px;
