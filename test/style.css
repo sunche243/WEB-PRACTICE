@@ -76,3 +76,11 @@ iframe{
     margin: auto;
     background-color: #DBD4BB;
 }
+
+.menu{
+    display: flex;
+}
+
+.menu > li{
+    margin-left: 40px;
+}
