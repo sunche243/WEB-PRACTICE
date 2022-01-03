@@ -78,13 +78,17 @@ iframe{
 }
 
 .search_area{
-    background-color: #DBD4BB;
+    background-color: chartreuse;
     width: 300px;
     height: 40px;
 }
 
 .menu{
     display: flex;
+    justify-content: flex-end;
+    line-height: 80px;
+    background-color: chocolate;
+    width: calc(868px - 300px)
 }
 
 .menu > li{
