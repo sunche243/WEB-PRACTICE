@@ -86,7 +86,7 @@ body{
     margin-left: 10px;
     font-size: 14pt;
     line-height: 16pt;
-    margin-top: 20px;
+    margin-top: 28.5px;
 }
 
 .menu_divide{
@@ -130,5 +130,5 @@ header{
 .article_main{
     width: 1080px;
     height: 100%;
-    
+    background-color: ;
 }
