@@ -134,7 +134,6 @@ header{
     margin-left: 50%;
     transform: translateX(-50%);
     background-color: gray;
-    overflow: hidden;
     color: black;
 }
 
