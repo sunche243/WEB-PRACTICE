@@ -131,8 +131,8 @@ header{
     width: 1080px;
     height: auto;
     background-color: gray;
-    margin-top: 30px
+    margin-top: 30px;
     margin-left: 50%;
     transform: translateX(-50%);
-    overflow: hidden
+    overflow: hidden;
 }
