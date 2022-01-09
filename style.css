@@ -108,8 +108,7 @@ header{
     margin-top: 30px;
     margin-left: 50%;
     transform: translateX(-50%);
-    background-color: gray;
-    overflow: hidden;
+    background-color: #f9f9f9
 }
 
 .article_port_video{
@@ -127,14 +126,4 @@ header{
 .header_button:hover{
     color: red;
     transform: scale(5px, 5px);
-}
-
-.article_main{
-    width: 1080px;
-    height: auto;
-    margin-top: 30px;
-    margin-left: 50%;
-    transform: translateX(-50%);
-
-    overflow: hidden;
 }
