@@ -102,7 +102,7 @@ header{
     height: 80px;
 }
 
-article{
+.article{
     width: 1080px;
     height: auto;
     margin-top: 30px;
