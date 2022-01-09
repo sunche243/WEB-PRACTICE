@@ -132,7 +132,8 @@ header{
 .article_main{
     width: 1080px;
     height: auto;
-    margin-top: 110px;
-    background-color: gray;
-    color: black;
+    margin-top: 30px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    overflow: hidden;
 }
