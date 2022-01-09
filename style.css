@@ -102,7 +102,7 @@ header{
     height: 80px;
 }
 
-.article{
+.article_port{
     width: 1080px;
     height: auto;
     margin-top: 30px;
@@ -126,4 +126,15 @@ header{
 }
 .header_button:hover{
     color: red;
+    transform: scale(5px, 5px);
+}
+
+.article_main{
+    width: 1080px;
+    height: auto;
+    margin-top: 30px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+
+    overflow: hidden;
 }
