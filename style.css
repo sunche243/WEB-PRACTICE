@@ -8,12 +8,14 @@ h1{
     font-size: 24pt;
     color : black;
     line-height: 28pt;
+    test-align: center;
 }
 
 h2{
     font-size: 22pt;
     color: #333333;
     line-height: 26pt;
+    test-align: center;
 }
 
 h3{
