@@ -102,11 +102,12 @@ header{
 
 .article_port{
     width: 50vw;
+    min-width: 480px;
     height: auto;
     margin-top: 100px;
     margin-bottom: 50px;
-    margin-left: 50%;
-    transform: translateX(-50%);
+    /* margin-left: 50%;
+    transform: translateX(-50%); */
     background-color: gray;
 }
 
