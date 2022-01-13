@@ -101,9 +101,10 @@ header{
 }
 
 .article_port{
-    width: 1080px;
+    width: 50vw;
     height: auto;
     margin-top: 100px;
+    margin-bottom: 50px;
     margin-left: 50%;
     transform: translateX(-50%);
     background-color: gray;
