@@ -77,7 +77,7 @@ body{
     display: flex;
     justify-content: flex-end;
     line-height: 80px;
-    background-color: #DBD4BB;
+    background-color: blue;
     width: 6vw;
     padding-right: 30vw;
 }
@@ -95,7 +95,7 @@ body{
 }
 
 header{
-    background-color: #DBD4BB;
+    background-color: red;
     width: auto;
     height: 80px;
 }
