@@ -79,7 +79,7 @@ body{
     line-height: 80px;
     background-color: #DBD4BB;
     width: calc(656px - 400px);
-    padding-left: 60vw;
+    padding-left: 10vw;
 }
 
 .menu > li{
