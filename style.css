@@ -79,9 +79,8 @@ body{
     justify-content: flex-end;
     line-height: 80px;
     background-color: blue;
-    width: 6vw;
+    width: 8vw;
     padding-left: 70vw;
-    padding-right: 10vw;
     overflow: auto;
 }
 
