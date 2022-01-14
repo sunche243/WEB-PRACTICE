@@ -80,6 +80,7 @@ body{
     background-color: blue;
     width: 6vw;
     padding-left: 10vw;
+    overflow: auto;
 }
 
 .menu > li{
