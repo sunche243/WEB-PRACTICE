@@ -74,7 +74,7 @@ body{
     line-height: 80px;
     width: 10vw;
     padding-left: 30vw;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .menu > li{
