@@ -53,12 +53,6 @@ body{
     background-color: #F9F9F9;
 }
 
-header{
-    background-color: red;
-    width: 100vw;
-    height: 8vh;
-}
-
 .header{
     display: flex;
     width: 100vw;
@@ -80,7 +74,7 @@ header{
     line-height: 80px;
     background-color: blue;
     width: 10vw;
-    padding-left: 50vw;
+    padding-left: 30vw;
     overflow: visible;
 }
 
