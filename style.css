@@ -72,7 +72,7 @@ body{
     display: flex;
     justify-content: flex-end;
     line-height: 80px;
-    width: 10vw; 
+    width: auto;
     padding-left: 80vw;
     overflow: hidden;
 }
