@@ -56,19 +56,19 @@ body{
 header{
     background-color: red;
     width: 100vw;
-    height: 7.407407407407407vh;
+    height: 8vh;
 }
 
 .header{
     display: flex;
     width: 100vw;
-    height: 7.407407407407407vh;
+    height: 8vh;
     background-color: #DBD4BB;
 }
 
 .header_logo{
-    width: 7.407407407407407vh;
-    height: 7.407407407407407vh;
+    width: 8vh;
+    height: 8vh;
     padding-left: 10vw;
 }
 
