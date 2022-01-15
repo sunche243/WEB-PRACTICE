@@ -61,8 +61,8 @@ body{
 }
 
 .header_logo{
-    width: 8vh; 
-    height: 8vh;
+    width: 100%; 
+    height: auto;
     padding-left: 10vw;
 } 
 
