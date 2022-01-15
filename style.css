@@ -54,7 +54,7 @@ body{
 }
 
 .header{
-    display: flex;
+    display: flex; 
     width: 100vw;
     height: 8vh;
     background-color: #DBD4BB;
