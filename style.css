@@ -53,6 +53,12 @@ body{
     background-color: #F9F9F9;
 }
 
+header{
+    background-color: red;
+    width: auto;
+    height: 80px;
+}
+
 .header{
     display: flex;
     width: 100vw;
@@ -94,12 +100,6 @@ body{
 .menu_divide{
     color: #000000;
     opacity: 21%;
-}
-
-header{
-    background-color: red;
-    width: auto;
-    height: 80px;
 }
 
 .article_port{
