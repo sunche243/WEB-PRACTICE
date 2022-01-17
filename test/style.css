@@ -40,6 +40,13 @@ p{
     line-height: 16pt;
 }
 
+.nav_title{
+    font-size: 4vh;
+    font-weight: bold;
+    padding-left: 15vw;
+    padding-top: 1.5vh;
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -69,6 +76,7 @@ body{
     width: 8vh;
     height: 8vh;
     padding-left: 15vw;
+    overflow: hidden;
 } 
 
 .menu{
@@ -128,7 +136,8 @@ iframe{
 }
 .header_button:hover{
     color: red;
-    font-size: 2.7vw;
+    font-size: 2.6vh;
+    font-weight: bold;
 }
 .textbox_port{
     width: 75%;
