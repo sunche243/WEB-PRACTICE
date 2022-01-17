@@ -61,27 +61,27 @@ body{
 }
 
 .header_logo{
-    width: 100%; 
-    height: auto;
+    width: 8vh;
+    height: 8vh;
     padding-left: 10vw;
 } 
 
 .menu{
-    font-size: 20pt;
     color: black;
     display: flex;
     justify-content: flex-end;
     line-height: 80px;
     width: auto;
-    padding-left: 60vw;
+    padding-left: 50vw;
     overflow: hidden;
+    margin-right: 10vw;
 }
 
 .menu > li{
-    margin-left: 10px;
-    font-size:1vw;
-    line-height: 16pt;
-    margin-top: 2.638888888888889vh;
+    margin-left: min(1vw, 500px);
+    font-size:2.5vh;
+    line-height: 2.6vh;
+    margin-top: 2.6vh;
 }
 
 .menu_divide{
@@ -114,7 +114,7 @@ body{
 }
 .header_button:hover{
     color: red;
-    transform: scale(5px, 5px);
+    font-size: 2.7vw;
 }
 .textbox_port{
     padding-top: 50px;
