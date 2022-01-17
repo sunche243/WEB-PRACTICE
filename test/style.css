@@ -49,6 +49,11 @@ p{
     color: #000000;
 }
 
+figure{
+    padding:0;
+    margin:0;
+}
+
 body{
     background-color: #F9F9F9;
 }
@@ -63,7 +68,7 @@ body{
 .header_logo{
     width: 8vh;
     height: 8vh;
-    padding-left: 10vw;
+    padding-left: 15vw;
 } 
 
 .menu{
@@ -91,21 +96,30 @@ body{
 
 .article_port{
     width: 50vw;
-    min-width: 480px;
     height: auto;
-    margin-top: 100px;
-    margin-bottom: 50px;
-    /* margin-left: 50%;
-    transform: translateX(-50%); */
-    background-color: gray;
-}
-
-.article_port_video{
-    height: 480px;
-    width: 720px;
+    margin-top: 7vw;
+    margin-bottom: 5vw;
     margin-left: 50%;
     transform: translateX(-50%);
+    /* background-color: gray; */
 }
+
+.video{
+    position: relative;
+    padding-bottom:56.25%;
+}
+
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width:75%;
+    height: 75%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
 
 .header_button{
     position: relative;
@@ -117,6 +131,6 @@ body{
     font-size: 2.7vw;
 }
 .textbox_port{
-    padding-top: 50px;
-    padding-left: 180px;
+    width: 75%;
+    margin: 0 auto;
 }
