@@ -40,7 +40,7 @@ p{
     line-height: 16pt;
 }
 
-.nav_title{
+.header_title{
     font-size: 4vh;
     font-weight: bold;
     padding-left: 15vw;
@@ -103,12 +103,13 @@ body{
 }
 
 .article_port{
-    width: 50vw;
+    width: 60vw;
     height: auto;
-    margin-top: 7vw;
+    margin-top: 7vh;
     margin-bottom: 5vw;
     margin-left: 50%;
     transform: translateX(-50%);
+    padding-top: 1vh;
     /* background-color: gray; */
 }
 
@@ -142,4 +143,21 @@ iframe{
 .textbox_port{
     width: 75%;
     margin: 0 auto;
+}
+
+aside{
+    position: absolute;
+    margin-left: 77.5vw;
+    margin-right: 10vw;
+    margin-top: 8vh;
+    width: 15vw;
+    height: auto;
+    background-color: gray;
+    text-align: center;
+    line-height: 40px;
+}
+
+.ele2 {
+  display: inline-block;
+  position: sticky;
 }
