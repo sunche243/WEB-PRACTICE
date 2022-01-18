@@ -152,12 +152,9 @@ aside{
     margin-top: 8vh;
     width: 15vw;
     height: auto;
-    background-color: gray;
     text-align: center;
     line-height: 40px;
-}
-
-.ele2 {
-  display: inline-block;
-  position: sticky;
+    outline-style: double 2px;
+    outline-color: #000000;
+    
 }
