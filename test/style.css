@@ -1,3 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    color: #000000;
+}
+
+
 header{
     font-size: 40pt;
     color: black;
@@ -45,15 +55,6 @@ p{
     font-weight: bold;
     padding-left: 15vw;
     padding-top: 1.5vh;
-}
-
-*{
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-    text-decoration: none;
-    border-collapse: collapse;
-    color: #000000;
 }
 
 figure{
