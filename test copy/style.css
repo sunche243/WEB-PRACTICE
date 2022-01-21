@@ -1,154 +1,23 @@
 *{
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-    text-decoration: none;
-    border-collapse: collapse;
-    color: #000000;
-}
-
-
-header{
-    font-size: 40pt;
-    color: black;
-    line-height: 47pt;
-}
-
-h1{
-    font-size: 24pt;
-    color : black;
-    line-height: 28pt;
-}
-
-h2{
-    font-size: 22pt;
-    color: #333333;
-    line-height: 26pt;
-}
-
-h3{
-    font-size: 20pt;
-    color: #333333;
-    line-height: 23pt;
-}
-
-h4{
-    font-size: 18pt;
-    color: black;
-    line-height: 21pt;
-}
-
-h5{
-    font-size: 16pt;
-    color: black;
-    line-height: 19pt;
+    background-color: black;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    align-items: center;
+    text-align: center;
 }
 
 p{
-    font-size: 14pt;
-    color: black;
-    line-height: 16pt;
-}
-
-.header_title{
-    font-size: 4vh;
-    font-weight: bold;
-    padding-left: 15vw;
-    padding-top: 1.5vh;
-}
-
-figure{
-    padding:0;
-    margin:0;
-}
-
-body{
-    background-color: #F9F9F9;
-}
-
-.header{
-    display: flex; 
-    width: 100vw;
-    height: 8vh;
-    background-color: #DBD4BB;
-}
-
-.header_logo{
-    width: 8vh;
-    height: 8vh;
-    padding-left: 15vw;
-    overflow: hidden;
-} 
-
-.menu{
-    color: black;
-    display: flex;
-    justify-content: flex-end;
-    line-height: 80px;
-    width: auto;
-    padding-left: 50vw;
-    overflow: hidden;
-    margin-right: 10vw;
-}
-
-.menu > li{
-    margin-left: min(1vw, 500px);
-    font-size:2.5vh;
-    line-height: 2.6vh;
-    margin-top: 2.6vh;
-}
-
-.menu_divide{
-    color: #000000;
-    opacity: 21%;
-}
-
-.article_port{
-    position: static;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 60vw;
-    height: auto;
-    margin-top: 7vh;
-    margin-bottom: 50vh;
-    /* background-color: gray; */
-}
-
-iframe{
-    position: absolute;
-    width: 50vw;
-    height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-.header_button{
-    position: relative;
-    cursor: pointer;
-    transition: all 0.2s;
-}
-.header_button:hover{
-    color: red;
-    font-size: 2.6vh;
-    font-weight: bold;
-}
-.textbox_port{
-    width: 75%;
-    margin: 0 auto;
-}
-
-aside{
-    position: absolute;
-    margin-left: 77.5vw;
-    margin-right: 10vw;
-    margin-top: 8vh;
-    width: 15vw;
-    height: auto;
     text-align: center;
-    line-height: 40px;
-    outline-style: double 2px;
-    outline-color: #000000;
-    
+    align-content: center;
+    align-items: center;
+    padding-top: 50%;
+    background-color: gray;
+    width: 30vw;
+    height: 30vh;
+    overflow: hidden;
+    border-radius: 50%
+}
+
+span{
+    width : 50vw
 }
