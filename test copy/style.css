@@ -1,23 +1,20 @@
 *{
-    background-color: black;
-    padding: 0 0 0 0;
-    margin: 0 0 0 0;
-    align-items: center;
-    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    color: #000000;
+    background-color: rgb(224, 224, 224);
 }
 
-p{
-    text-align: center;
+article{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    box-shadow: gray 3px;
     align-content: center;
-    align-items: center;
-    padding-top: 50%;
-    background-color: gray;
-    width: 30vw;
-    height: 30vh;
-    overflow: hidden;
-    border-radius: 50%
-}
-
-span{
-    width : 50vw
+    text-align: center;
+    border-radius: ;
 }
