@@ -36,11 +36,11 @@ li{
     list-style: none;
     background-color: cornsilk;
     float: left;
+    width: 50vw;
     line-height: 30px;
-    padding-left: 50vw;
+    padding-left: 10vw;
     position: flex-end;
     overflow: hidden;
     display: flex;
     justify-content: flex-end;
-
 }
