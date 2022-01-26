@@ -1,39 +1,5 @@
 *{
     padding: 0px;
-<<<<<<< HEAD
     margin: 0px;
-}
-
-article{S
-    
-}
-
-.center_block{
-    position: absolute;
-    width: 50vw;
-    height: 10vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: lightcoral;
-    color: black;
-    
-=======
-    list-style: none;
-    text-decoration: none;
-    border-collapse: collapse;
-    color: #000000;
-    background-color: rgb(224, 224, 224);
-}
-
-article{
-    position: absolute;
-    width: 500px;
-    height: 100px;
-    background-color: white;
-    box-shadow: gray 3px;
-    align-content: center;
-    text-align: center;
-    border-radius: ;
->>>>>>> 3a9d405ddaf753f17e5c5cec3b910d2148b04902
+    text-align: 0px;
 }
