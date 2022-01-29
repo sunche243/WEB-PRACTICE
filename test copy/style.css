@@ -37,6 +37,7 @@ li{
     background-color: cornsilk;
     float: left;
     width: 50vw;
+    height: 80px;
     line-height: 30px;
     padding-left: 10vw;
     position: flex-end;
