@@ -1,72 +1,12 @@
 *{
-    margin: 0px;
     padding: 0px;
-    list-style: none;
-    text-decoration: none;
-    border-collapse: collapse;
-    color: #000000;
+    margin: 0px;
 }
 
-/* p{
-    position: absolute;
-    align-items: center;
+li a{
+    background-color: blue;
 }
 
-.flexboard{
-    position: flex-end;
-    display: flex;
-    width: auto;
-    height: 10vh;
-    justify-content: flex-end;
-    align-items: center;
-    background-color: bisque;
-    padding-right: 20vw;
-    overflow: hidden;
-    line-height: 80px;
-
-} */
-
-/* ul{
-    list-style-type: none;
-} */
-
-/* li{
-    margin-left: min(1vw, 500px);
-} */ 
-
-/* li{
-    list-style: none;
-    background-color: cornsilk;
-    float: left;
-    width: 50vw;
-    height: 80px;
-    line-height: 30px;
-    padding-left: 10vw;
-    position: flex-end;
-    overflow: hidden;
-    display: flex;
-    justify-content: flex-end;
-} */
-
-.menu{
-    color: black;
-    display: flex;
-    justify-content: flex-end;
-    line-height: 80px;
-    width: auto;
-    padding-left: 50vw;
-    overflow: hidden;
-    margin-right: 10vw;
-}
-
-.menu > li{
-    margin-left: min(1vw, 500px);
-    font-size:2.5vh;
-    line-height: 2.6vh;
-    margin-top: 2.6vh;
-}
-
-.menu_divide{
-    color: #000000;
-    opacity: 21%;
+li > a{
+    background-color: brown;
 }
