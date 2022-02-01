@@ -3,10 +3,6 @@
     margin: 0px;
 }
 
-li a{
-    background-color: blue;
-}
-
-li > a{
-    background-color: brown;
+ul{
+    list-style: none;
 }
