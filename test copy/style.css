@@ -6,4 +6,24 @@
 ul{
     list-style: none;
     margin: 0px;
+    padding: 0px;
+}
+
+li a{
+    display: block;
+    width: 100px;
+    height: 50px;
+    background-color: #ebebeb;
+}
+
+li a:hover{
+    background-color: aqua;
+    color: white;
+    width: 130px;
+    height: 60px;
+}
+
+li a.active{
+    background-color: violet;
+    color: tomato;
 }
