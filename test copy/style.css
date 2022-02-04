@@ -3,27 +3,55 @@
     margin: 0px;
 }
 
+header{
+    background-color: #ebebeb;
+    height: auto;
+    width: 100vw;
+}
+
+.header_logo{
+    position: absolute;
+    height: auto;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
 ul{
     list-style: none;
-    margin: 0px;
+    margin-right: 20vw;
     padding: 0px;
+}
+
+li{
+    float: right;
 }
 
 li a{
     display: block;
     width: 100px;
-    height: 50px;
+    height: auto;
+    padding: 14px 0.5vw;
     background-color: #ebebeb;
+    text-align: center;
+    text-decoration: none;
+    color: black;
 }
 
 li a:hover{
-    background-color: aqua;
+    background-color: red;
     color: white;
-    width: 130px;
-    height: 60px;
 }
 
-li a.active{
-    background-color: violet;
-    color: tomato;
+.active{
+    background-color: orange;
+    color: white;
+}
+
+.fixed{
+    position: fixed;
+}
+
+body{
+    background-color: #1b1b1b;
 }
