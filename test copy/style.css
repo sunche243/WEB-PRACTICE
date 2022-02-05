@@ -10,9 +10,10 @@ header{
 }
 
 .header_logo{
+    display: flex;
     position: absolute;
     height: auto;
-    overflow: calc(80px - 50px);
+    overflow: auto;
     height: 100%;
     width: 100%;
 }
