@@ -10,7 +10,7 @@ header{
 }
 
 .header_logo{
-    display: flex;
+    display: flexbox ;
     position: absolute;
     height: auto;
     overflow: auto;
