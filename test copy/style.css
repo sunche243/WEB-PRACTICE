@@ -5,17 +5,19 @@
 
 header{
     background-color: #ebebeb;
-    height: auto;
+    height: 5vh;
     width: 100vw;
 }
 
 .header_logo{
-    display: flexbox ;
     position: absolute;
-    height: auto;
-    overflow: auto;
-    height: 100%;
+    height: 5vh;
     width: 100%;
+}
+
+.logo{
+    max-width: 100%;
+    height: auto;
 }
 
 ul{
